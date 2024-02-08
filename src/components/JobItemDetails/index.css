@@ -1,0 +1,86 @@
+.jobdetailscontainer {
+  background-color: black;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.goldcolor {
+  color: #fbbf24;
+}
+.ul-in-similar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-left: 30px;
+}
+.headind-similar {
+  color: white;
+  align-self: flex-start;
+  padding-left: 25px;
+}
+.lifecompanypara {
+  width: 74%;
+}
+.lifeatcompanyimage {
+  width: 250px;
+  height: 150px;
+}
+.bottom-jobItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.skillsimage {
+  width: 80px;
+  height: 80px;
+  padding-right: 10px;
+}
+.list-of-skills {
+  list-style-type: none;
+  margin-bottom: 35px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.skillsaligning {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.heading {
+  font-size: 20px;
+  padding-top: 7px;
+}
+.jobdetailscontainer-card {
+  margin: 40px;
+  width: 96%;
+  background-color: #272727;
+  color: white;
+  padding: 30px;
+}
+.top-of-jobcarddetail {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.company-image {
+  padding-top: 25px;
+  height: 120px;
+  width: 100px;
+  padding-right: 15px;
+}
+.middle-jobdeatilcard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.middle-gobdetail-incard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

@@ -1,0 +1,80 @@
+.hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.leftcard-container {
+  padding-top: 10px;
+  padding-left: 35px;
+}
+
+.ul-in-left {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0px;
+}
+.lival {
+  color: white;
+  list-style-type: none;
+  margin: 5px 0;
+  padding-left: 0;
+}
+
+.heading-in-left-card {
+  color: white;
+  font-size: 20px;
+}
+.left-item {
+  width: 20%;
+}
+.right-item {
+  width: 76%;
+}
+.searchButton-ofmain-page {
+  height: 30px;
+}
+.aligning-loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.searchbarofclass {
+  width: 400px;
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+  height: 30px;
+}
+.bottom-ofnave {
+  margin-top: 18px;
+  padding-left: 50px;
+}
+.jobcontentalignment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.aligning-jobs-section {
+  display: flex;
+  flex-direction: row;
+}
+.jobs-container {
+  background-color: #000000;
+  height: 100%;
+}
+.card-profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  margin-left: 35px;
+  margin-top: 20px;
+  padding: 5px;
+}
+.profile-heading {
+  color: #6366f1;
+  font-size: 20px;
+}
+.profile-para {
+  color: #475569;
+}

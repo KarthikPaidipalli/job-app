@@ -1,0 +1,19 @@
+.list-of-similar {
+  background-color: #272727;
+  padding: 10px;
+  list-style-type: none;
+  margin: 20px;
+  color: white;
+  width: 400px;
+}
+.top-of-similarjob {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.company-image-similar-job {
+  padding-top: 25px;
+  height: 120px;
+  width: 100px;
+  padding-right: 15px;
+}

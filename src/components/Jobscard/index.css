@@ -1,0 +1,45 @@
+.jobcard-li {
+  list-style-type: none;
+  margin: 10px;
+  margin-bottom: 15px;
+  background-color: #272727;
+  width: 100%;
+  padding: 20px;
+  color: white;
+  border-radius: 20px;
+}
+.links {
+  text-decoration: none;
+}
+.align-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.middle-of-para {
+  padding-left: 10px;
+  padding-right: 20px;
+}
+.top-of-jobcard {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.middle-jobcard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.middle-jobcard-incard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.company-imagE {
+  padding-top: 25px;
+  height: 120px;
+  width: 100px;
+  padding-right: 15px;
+}
